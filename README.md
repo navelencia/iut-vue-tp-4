@@ -1,4 +1,4 @@
-# iut-react-tp-4
+# iut-vue-tp-4
 
 ## Project setup
 ```
